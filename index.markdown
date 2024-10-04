@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm [Your Name]!
+# Hi, I'm Vibol!
 
 I'm a passionate **Ruby on Rails** web developer with over 7 years of experience in delivering scalable and efficient web applications. I specialize in full-stack development, turning ideas into functional, performant web solutions.
 
