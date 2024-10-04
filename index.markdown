@@ -28,18 +28,5 @@ You can view more about my work on my [Upwork profile](https://www.upwork.com/fr
 - **Version Control:** GitHub, GitLab, Bitbucket
 - **Deployment:** Heroku, DigitalOcean, AWS (EC2, S3)
 
-## Contact Me
-Have a project in mind or need help with web development? Feel free to reach out!
-
-<form action="https://formspree.io/f/xkgnwjrv" method="POST">
-  <label for="name">Your Name:</label>
-  <input type="text" name="name" id="name" required>
-
-  <label for="email">Your Email:</label>
-  <input type="email" name="email" id="email" required>
-
-  <label for="message">Your Message:</label>
-  <textarea name="message" id="message" required></textarea>
-
-  <button type="submit">Send Message</button>
-</form>
+## Hire Me
+Have a project in mind, hit me up on [Upwork](https://www.upwork.com/freelancers/~0177ae7f1e808b75ba).
