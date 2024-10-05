@@ -3,30 +3,28 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Vibol!
+# Welcome! I'm Vibol.
 
-I'm a passionate **Ruby on Rails** web developer with more than a decade of experience in delivering scalable and efficient web applications. I specialize in full-stack development, turning ideas into functional, performant web solutions.
+### Full-Stack Ruby on Rails Developer | 10+ Years of Experience
 
-## Who Am I?
-As a web developer based in Cambodia, I help businesses and startups grow their digital presence. I’ve successfully completed projects on Upwork, building robust web applications and improving workflows for clients worldwide. My goal is to simplify complex problems with well-crafted, scalable code.
+I'm a web developer with a passion for building scalable and efficient web applications. Based in Cambodia, I work with businesses and startups worldwide, turning ideas into robust digital solutions. With over a decade of experience, I specialize in full-stack development, creating seamless user experiences and scalable backends.
 
-You can view more about my work on my [Upwork profile](https://www.upwork.com/freelancers/~0177ae7f1e808b75ba) or check out my open-source contributions and projects on [GitHub](https://github.com/tvcam).
+### Why Work With Me?
 
----
+- **Proven Expertise:** I’ve spent the last 10+ years developing high-performance web applications using Ruby on Rails, delivering exceptional results for clients on Upwork and beyond.
+- **Top-Rated Plus Freelancer:** As a top-rated Upwork freelancer, I’ve successfully completed numerous projects, from SaaS platforms to eCommerce solutions, earning trust and long-term collaborations.
+- **Scalable Solutions:** My approach is to simplify complex problems and build applications that are not only functional but also scalable for future growth.
 
-## Experience
-- **Web Developer (10+ years)** – Experienced in developing large-scale web apps using Ruby on Rails, REST APIs, and MVC architecture.
-- **Upwork Freelancer** – Top-rated Upwork freelancer with numerous successful projects, focusing on SaaS, ecommerce platforms, and backend development.
-- **Frontend Development** – Skilled in JavaScript (React), HTML5, CSS3, Bootstrap, and TailwindCSS.
-- **Database Expertise** – Proficient in PostgreSQL, MySQL, and optimizing databases for high-performance apps.
+### My Services
 
-### Core Skills:
-- **Languages:** Ruby, JavaScript, HTML5, CSS3, SQL
-- **Frameworks:** Ruby on Rails, React, Vue.js
-- **Tools & Technologies:** Git, Docker, Redis, Elasticsearch
-- **APIs:** RESTful APIs, GraphQL, JSON
-- **Version Control:** GitHub, GitLab, Bitbucket
-- **Deployment:** Heroku, DigitalOcean, AWS (EC2, S3)
+- Full-Stack Web Development (Ruby on Rails, JavaScript)
+- Backend Development & Database Optimization (PostgreSQL, MySQL)
+- API Development (REST, GraphQL)
+- Frontend Development (React, HTML5, CSS3, TailwindCSS)
+- Deployment & Infrastructure (Heroku, AWS, DigitalOcean)
 
-## Hire Me
-Have a project in mind, hit me up on [Upwork](https://www.upwork.com/freelancers/~0177ae7f1e808b75ba).
+### Let’s Build Something Great
+
+Looking for a reliable developer to bring your project to life? I’m here to help. Whether it’s building a new application from scratch or optimizing an existing one, I’ll deliver code that scales with your business.
+
+[View my Upwork profile](https://www.upwork.com/freelancers/~0177ae7f1e808b75ba) | [Check out my GitHub](https://github.com/tvcam)
