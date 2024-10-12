@@ -17,20 +17,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gotabs + Vibol
+title: GoTabs + Vibol
 url: "https://gotabs.net"
 twitter_username: vibol_teav
 github_username:  tvcam
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-CGNLLQCT4H        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+google_analytics: G-CGNLLQCT4H
 
 # Exclude from processing.
 # The following items will not be processed, by default.
