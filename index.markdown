@@ -3,19 +3,20 @@ layout: default
 title: Home
 ---
 
-# Welcome! I'm Vibol.
+# Vibol T. | Full-Stack Developer
 
-### Full-Stack Ruby on Rails Developer | 10+ Years of Experience | 100% Job Success Rating
+### Transforming Ideas into Scalable Web Solutions
 
-I'm a web developer with a passion for building scalable and efficient web applications. Based in Cambodia, I work with businesses and startups worldwide, turning ideas into robust digital solutions. With over a decade of experience, I specialize in full-stack development, creating seamless user experiences and scalable backends.
+With over a decade of experience in Ruby on Rails development, I help businesses build robust, scalable web applications. Based in Cambodia 🇰🇭, I collaborate with clients worldwide to deliver high-quality software solutions.
 
-### Why Work With Me?
+### Key Achievements
 
-- **Proven Expertise:** I’ve spent the last 10+ years developing high-performance web applications using Ruby on Rails, delivering exceptional results for clients on Upwork and beyond.
-- **Top-Rated Plus Freelancer:** As a top-rated Upwork freelancer, I’ve successfully completed numerous projects, from SaaS platforms to eCommerce solutions, earning trust and long-term collaborations.
-- **Scalable Solutions:** My approach is to simplify complex problems and build applications that are not only functional but also scalable for future growth.
+- **10+ Years Experience** in full-stack development with Ruby on Rails
+- **100% Job Success Score** on Upwork with Top-Rated Plus status
+- **300+ Projects Delivered** for clients across 20+ countries
+- **Expert-Level** in Ruby, Rails, and Web Development
 
-### My Services
+### Technical Expertise
 
 - Full-Stack Web Development (Ruby on Rails, JavaScript)
 - Backend Development & Database Optimization (PostgreSQL, MySQL)
