@@ -3,11 +3,10 @@ layout: default
 title: Home
 ---
 
-# Vibol T. | Full-Stack Developer
+# Gotabs Consulting
+### Led by Vibol T. | Full-Stack Development Solutions
 
-### Transforming Ideas into Scalable Web Solutions
-
-With over a decade of experience in Ruby on Rails development, I help businesses build robust, scalable web applications. Based in Cambodia 🇰🇭, I collaborate with clients worldwide to deliver high-quality software solutions.
+With over a decade of experience in Ruby on Rails development, Gotabs Consulting delivers robust, scalable web applications. Based in Cambodia 🇰🇭, we collaborate with clients worldwide to deliver high-quality software solutions.
 
 ### Key Achievements
 
