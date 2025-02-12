@@ -25,6 +25,8 @@ With over a decade of experience in Ruby on Rails development, Gotabs Consulting
 
 ### Client Testimonials
 
+> "Vibol did an excellent job with the project we assigned him. He is quick and efficient. He is an excellent Ruby on Rails developer!"
+
 > "As always a pleasure to work with Vibol. A very skilled and dependable developer. Good communication, good vibes."
 
 > "This was easily the best experience I've had working with someone through a talent database. Vibol is extremely efficient and was able to work through a messy codebase with ease. I would highly recommend him for any and all projects in the future."
