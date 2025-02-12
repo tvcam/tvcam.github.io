@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<head>
+  <!-- Open Graph / LinkedIn -->
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+</head>
+
+{{ content }}
