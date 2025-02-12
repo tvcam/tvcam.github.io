@@ -25,7 +25,6 @@ github_username:  tvcam
 # Build settings
 theme: minima
 google_analytics: G-CGNLLQCT4H
-permalink: /:year/:month/:day/:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
