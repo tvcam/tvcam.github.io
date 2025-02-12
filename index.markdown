@@ -35,4 +35,7 @@ With over a decade of experience in Ruby on Rails development, Gotabs Consulting
 
 Looking for a reliable developer to bring your project to life? I’m here to help. Whether it’s building a new application from scratch or optimizing an existing one, I’ll deliver code that scales with your business.
 
+## Recent Blog Posts
+- [How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner](/_posts/2024-01-08-migrating-away-from-gcp.md)
+
 [View my Upwork profile](https://www.upwork.com/freelancers/~0177ae7f1e808b75ba) | [Check out my GitHub](https://github.com/tvcam)
