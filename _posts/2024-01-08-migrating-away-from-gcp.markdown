@@ -2,6 +2,7 @@
 layout: default
 title: "How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner"
 date: 2024-01-08 13:25:57 +0700
+tags: [Rails, No PaaS Required, DevOps, Infrastructure]
 ---
 
 # **How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner**  
