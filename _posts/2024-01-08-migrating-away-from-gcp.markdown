@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner"
 date: 2024-01-08 13:25:57 +0700
 ---
@@ -11,7 +11,6 @@ Cloud costs can quickly spiral out of control, especially when infrastructure sc
 
 This blog post details why we made the switch, how we executed the migration, and what we learned along the way.  
 
----
 
 ## **Why Move from Google Cloud?**  
 My client was running a fairly common stack: **VPS, Redis, and PostgreSQL** on Google Cloud. However, they faced a big problem—every time their system slowed down, instead of diagnosing the root cause, they simply **increased server capacity**.  
@@ -20,7 +19,6 @@ Without an experienced DevOps engineer, their infrastructure costs kept rising, 
 
 **Why should we be scared of the cloud? It’s Linux, we use it every day.**  
 
----
 
 ## **Why Hetzner?**  
 I first came across Hetzner through a post by [David Heinemeier Hansson (DHH)](https://world.hey.com/dhh), co-founder of 37signals, where he discussed moving away from cloud providers in favor of more cost-effective solutions. Inspired by this, I explored Hetzner and found it to be a great fit for my client’s needs.  
@@ -33,7 +31,6 @@ I first came across Hetzner through a post by [David Heinemeier Hansson (DHH)](h
 
 With the right setup, we could achieve the same level of performance at a fraction of the cost.  
 
----
 
 ## **The Migration Process**  
 Moving from Google Cloud to Hetzner wasn’t just about copying and pasting data—we had to be strategic.  
@@ -45,7 +42,6 @@ The client’s PostgreSQL database was massive—**1.8TB of data**. Migrating it
 - DNS updates were quick, taking only about **2 minutes**.  
 - We prioritized database migration over backups due to time constraints, as the next Google Cloud bill was just around the corner.  
 
----
 
 ## **Cost Savings Breakdown**  
 Once everything was running smoothly on Hetzner, we were able to **downsize infrastructure significantly**.  
@@ -58,7 +54,6 @@ Once everything was running smoothly on Hetzner, we were able to **downsize infr
 
 That’s a **90% cost reduction** while maintaining stability.  
 
----
 
 ## **Lessons Learned & Who Should Consider This Migration**  
 ### **Would I Do Anything Differently?**  
@@ -72,7 +67,6 @@ If you're:
 
 Then moving to Hetzner (or another provider) could **save you thousands**—and I'd be happy to help make that happen.  
 
----
 
 ## **Final Thoughts**  
 Cloud migrations can be intimidating, but with the right approach, they can lead to **huge cost savings without sacrificing performance**. My client is now saving **$27,000 per month** while running a stable, efficient system.  
