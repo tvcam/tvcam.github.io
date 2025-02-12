@@ -3,7 +3,13 @@ layout: default
 title: "How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner"
 date: 2024-01-08 13:25:57 +0700
 tags: [Rails, No PaaS Required, DevOps, Infrastructure]
+image: /assets/images/posts/2024/cloud-illustration.svg
+description: "How we achieved 90% cost savings by migrating from Google Cloud to Hetzner while maintaining performance and reliability"
 ---
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/assets/images/posts/2024/cloud-illustration.svg" alt="Server Migration Banner" style="max-width: 100%; height: auto;">
+</div>
 
 # **How I Helped a Client Save 10x by Migrating from Google Cloud to Hetzner**  
 
