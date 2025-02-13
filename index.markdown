@@ -12,7 +12,7 @@ With over a decade of experience in Ruby on Rails development, Gotabs Consulting
 
 - **10+ Years Experience** in full-stack development with Ruby on Rails
 - **100% Job Success Score** on Upwork with Top-Rated Plus status
-- **300+ Projects Delivered** for clients across 20+ countries
+- **100+ Projects Delivered** for clients across 10+ countries
 - **Expert-Level** in Ruby, Rails, and Web Development
 
 ### Technical Expertise
