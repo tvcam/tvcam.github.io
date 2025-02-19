@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What 6 Cans of Beer Give to You"
-date: 2024-01-09
+date: 2024-02-19
 tags: [Fun, Life]
 description: "A not-so-scientific analysis what happen after 6 beers"
 ---
