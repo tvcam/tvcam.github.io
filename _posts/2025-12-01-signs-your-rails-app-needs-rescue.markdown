@@ -7,6 +7,11 @@ description: "Is your Rails app crashing? Deployments scary? Here are 5 warning 
 image: /assets/images/posts/2025/5-signs-to-upgrade-your-rails-app.png
 ---
 
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/assets/images/posts/2025/5-signs-to-upgrade-your-rails-app.png" alt="5 Signs Your Rails App Needs Rescue" style="max-width: 100%; height: auto;">
+</div>
+
 <div style="background: #fff5f5; border-left: 4px solid #d73a49; padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px;">
   <strong>TL;DR:</strong> If you are afraid to deploy your own code, your project is in trouble. <a href="/ruby-on-rails-project-rescue/" style="color: #d73a49; text-decoration: underline;">I can help rescue it.</a>
 </div>
