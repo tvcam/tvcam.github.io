@@ -142,7 +142,6 @@ description: Get in touch with Vibol T., Ruby on Rails full-stack developer. Fil
 </div>
 
 <form class="contact-form" action="https://formspree.io/f/xkgnwjrv" method="POST">
-  <input type="hidden" name="_next" value="https://gotabs.net/thank-you">
   <div class="form-group">
     <label for="name">Your Name *</label>
     <input type="text" id="name" name="name" placeholder="John Doe" required>
