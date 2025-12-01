@@ -4,7 +4,7 @@ title: "5 Signs Your Ruby on Rails App Needs a Rescue (Before It's Too Late)"
 date: 2025-12-01 09:00:00 +0700
 tags: [Rails, Business, Tech Debt, Project Rescue]
 description: "Is your Rails app crashing? Deployments scary? Here are 5 warning signs that your project is in danger and needs a rescue mission."
-image: /assets/images/posts/2025/rails-rescue.jpg
+image: /assets/images/posts/2025/5-signs-to-upgrade-your-rails-app.png
 ---
 
 <div style="background: #fff5f5; border-left: 4px solid #d73a49; padding: 1.5rem; margin-bottom: 2rem; border-radius: 4px;">
