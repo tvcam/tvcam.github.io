@@ -23,37 +23,37 @@ permalink: /cloud-cost-reduction-expert/
     <div>
       <h3>❌ The Cloud Cost Trap</h3>
       <ul>
-        <li>**Opaque Pricing:** Hard to predict what your bill will be next month.</li>
-        <li>**Inefficient Scaling:** Adding servers instead of fixing code bottlenecks.</li>
-        <li>**Managed Service Markup:** Paying 3-5x premium for managed databases (RDS, Cloud SQL).</li>
-        <li>**Egress Fees:** Getting charged just for moving your own data.</li>
+        <li><strong>Opaque Pricing:</strong> Hard to predict what your bill will be next month.</li>
+        <li><strong>Inefficient Scaling:</strong> Adding servers instead of fixing code bottlenecks.</li>
+        <li><strong>Managed Service Markup:</strong> Paying 3-5x premium for managed databases (RDS, Cloud SQL).</li>
+        <li><strong>Egress Fees:</strong> Getting charged just for moving your own data.</li>
       </ul>
     </div>
     <div>
       <h3>✅ The Optimized Solution</h3>
       <ul>
-        <li><strong>Flat-Rate Pricing:** Predictable monthly costs with no surprises.</li>
-        <li><strong>Dedicated Power:** Massive performance boost with dedicated hardware (Hetzner/Bare Metal).</li>
-        <li><strong>Self-Managed DBs:** Run your own Postgres/Redis securely and save thousands.</li>
-        <li><strong>Full Control:** Your infrastructure, your rules.</li>
+        <li><strong>Flat-Rate Pricing:</strong> Predictable monthly costs with no surprises.</li>
+        <li><strong>Dedicated Power:</strong> Massive performance boost with dedicated hardware (Hetzner/Bare Metal).</li>
+        <li><strong>Self-Managed DBs:</strong> Run your own Postgres/Redis securely and save thousands.</li>
+        <li><strong>Full Control:</strong> Your infrastructure, your rules.</li>
       </ul>
     </div>
   </div>
 
   <h2>Case Study: 90% Savings by Leaving Google Cloud</h2>
   <p>
-    A client was spending **$30,000/month** on Google Cloud Platform (GCP). They had inefficient auto-scaling and massive database costs.
+    A client was spending <strong>$30,000/month</strong> on Google Cloud Platform (GCP). They had inefficient auto-scaling and massive database costs.
   </p>
   <p>
     <strong>The Solution:</strong>
   </p>
   <ul style="font-size: 1.1rem; line-height: 1.8;">
-    <li>Migrated infrastructure to **Hetzner Dedicated Servers**.</li>
+    <li>Migrated infrastructure to <strong>Hetzner Dedicated Servers</strong>.</li>
     <li>Replaced expensive Cloud SQL with self-managed, optimized PostgreSQL.</li>
     <li>Implemented proper caching to reduce server load.</li>
   </ul>
   <p>
-    <strong>The Result:</strong> The bill dropped to **$3,000/month**—a **$324,000 annual saving**—with better performance and stability.
+    <strong>The Result:</strong> The bill dropped to <strong>$3,000/month</strong>—a <strong>$324,000 annual saving</strong>—with better performance and stability.
   </p>
 
   <div style="text-align: center; margin-top: 2rem;">
