@@ -121,63 +121,9 @@ If you need a reliable developer who can handle both development and infrastruct
 
 ## 🏗️ Case Studies
 
-### 1. Legacy Rails App Recovery (Heroku Slug Rebuild)
+See real examples of how I've helped clients solve complex problems, reduce costs, and modernize their systems.
 
-**Challenge:** Client had no source code, only an app running on Heroku.
-
-**Solution:** Reconstructed the entire Rails application from the slug, upgraded dependencies, fixed bugs, and restored the system.
-
-**Impact:**
-- ✅ App fully restored
-- ✅ Saved the client from a costly rebuild
-- ✅ Modernized code and infrastructure
-
----
-
-### 2. Deep Cleaning Operations Platform (UK Client)
-
-**Challenge:** A large cleaning company needed scheduling, staff management, job tracking, and a mobile staff portal.
-
-**Solution:** Built comprehensive operations platform with:
-- Job assignment + scheduling
-- Mobile staff login
-- Time tracking + GPS logging
-- Payroll automation
-- Multi-location job management
-- Vehicle/mobile unit scheduling
-
-**Impact:**
-- ✅ Automated operations
-- ✅ Reduced admin time
-- ✅ Eliminated manual paperwork
-
----
-
-### 3. WooCommerce → Rails → Xero Integration
-
-**Challenge:** Client needed automated accounting workflow from e-commerce orders.
-
-**Solution:** Built Rails system that imports WooCommerce orders, links books via ISBN, and auto-generates invoices in Xero.
-
-**Impact:**
-- ✅ 100% automated accounting
-- ✅ Eliminated manual data entry
-- ✅ Saved hours per day for the client
-
----
-
-### 4. Cloud Migration (Google Cloud → Hetzner)
-
-**Challenge:** Client was spending $30,000/month on Google Cloud with inefficient infrastructure scaling.
-
-**Solution:** Migrated infrastructure to Hetzner dedicated VPS, optimized server sizing, and implemented efficient scaling.
-
-**Impact:**
-- ✅ **10x cheaper hosting bills** ($30,000 → $3,000/month)
-- ✅ Faster performance
-- ✅ Stable on-prem setup
-
-[Read the full case study →](/2025/02/08/migrating-from-gcp.html)
+[View all case studies →](/case-studies/)
 
 ---
 
@@ -207,32 +153,9 @@ If you need a reliable developer who can handle both development and infrastruct
 
 ## ❓ Frequently Asked Questions
 
-**How long do projects typically take?**
-- Small features: 1-2 weeks
-- Medium projects: 1-3 months
-- Large applications: 3-6 months
-- Timeline depends on scope and complexity
+Have questions about working with me? I've compiled answers to the most common questions.
 
-**Do you work with legacy code?**
-Yes! I specialize in working with messy, legacy, or incomplete codebases. I'm known for being able to quickly understand and improve existing systems.
-
-**What's your pricing model?**
-I work on a project basis or hourly rate, depending on the scope. Contact me for a custom quote based on your specific needs.
-
-**Do you handle both development and infrastructure?**
-Absolutely. I can handle the full stack - from application development to deployment, infrastructure setup, and optimization. This makes me a one-stop solution.
-
-**Can you help reduce hosting costs?**
-Yes! I've helped clients reduce hosting costs by 70-90% through infrastructure optimization and migrations (like the Google Cloud → Hetzner case study above).
-
-**What technologies do you work with?**
-Primarily Ruby on Rails, but also React, PostgreSQL, Docker, and various cloud platforms. I'm comfortable with most modern web technologies.
-
-**Do you work with startups?**
-Yes, I work with startups, SaaS companies, and SMEs. I'm experienced in building MVPs quickly and scaling as you grow.
-
-**How do I get started?**
-[Fill out the contact form](/contacts) with your project details, and I'll get back to you within 24 hours.
+[View FAQ →](/faq/)
 
 ---
 
