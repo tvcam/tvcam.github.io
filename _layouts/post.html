@@ -1,19 +1,57 @@
 ---
 layout: default
 ---
-<head>
-  <!-- Open Graph / LinkedIn -->
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:description" content="{{ page.description }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.description }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-</head>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-{{ content }}
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+      {%- if page.tags.size > 0 -%}
+        • Tags: 
+        {% for tag in page.tags %}
+          <span class="post-tag" style="background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.8em;">{{ tag }}</span>
+        {% endfor %}
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-share-buttons" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee;">
+    <h3>Share this post</h3>
+    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" style="display: inline-block; margin-right: 1rem; padding: 0.5rem 1rem; background: #1da1f2; color: white; border-radius: 4px; text-decoration: none;">Share on Twitter</a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background: #0077b5; color: white; border-radius: 4px; text-decoration: none;">Share on LinkedIn</a>
+  </div>
+
+  {%- assign related_posts = site.related_posts | first -%}
+  {%- if related_posts -%}
+  <div class="related-posts" style="margin-top: 3rem;">
+    <h3>Related Posts</h3>
+    <ul class="related-posts-list">
+      {% for post in site.related_posts limit:3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <small style="color: #828282;">- {{ post.date | date: "%b %-d, %Y" }}</small>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {%- endif -%}
+
+  <div class="post-cta" style="margin-top: 3rem; background: #f6f8fa; padding: 2rem; border-radius: 8px; text-align: center;">
+    <h3>Need help with a similar project?</h3>
+    <p>I help companies scale Rails apps, fix legacy code, and optimize infrastructure.</p>
+    <a href="/contacts" style="display: inline-block; background: #0366d6; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600;">Get in Touch</a>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

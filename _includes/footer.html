@@ -1,0 +1,53 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <p>{{ site.description | escape }}</p>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {%- if site.github_username -%}
+          <li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" target="_blank">
+            <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username | escape }}</span>
+          </a></li>
+          {%- endif -%}
+          {%- if site.twitter_username -%}
+          <li><a href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" target="_blank">
+            <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username | escape }}</span>
+          </a></li>
+          {%- endif -%}
+          <li>
+            <a href="https://www.upwork.com/freelancers/~0177ae7f1e808b75ba" target="_blank">
+              <span class="username">Upwork Profile</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <div style="margin-bottom: 1rem;">
+            <strong>Ready to get started?</strong>
+        </div>
+        <a href="/contacts" style="display: inline-block; background-color: #0366d6; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600; margin-bottom: 1rem;">
+            Book a Call / Contact Me
+        </a>
+        <p class="feed-subscribe">
+            <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe via RSS</span>
+            </a>
+        </p>
+      </div>
+    </div>
+
+    <div class="footer-copyright" style="margin-top: 2rem; font-size: 0.9em; color: #828282; text-align: center;">
+        &copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}. All rights reserved.
+    </div>
+
+  </div>
+</footer>
+
